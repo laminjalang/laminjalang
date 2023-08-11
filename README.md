@@ -28,22 +28,14 @@
   <p class="head">Education</p>
   <ul>
     <!--Link-->
-    <a
-      href="https://arc.losrios.edu/academics/programs-and-majors/computer-information-science#:~:text=A.S.%20in%20CIS%3A%20Database%20Management">
+    <a href="https://arc.losrios.edu/academics/programs-and-majors/computer-information-science#:~:text=A.S.%20in%20CIS%3A%20Database%20Management">
       <li>AS American River College</li>
     </a>
     <a href="https://gc.edu.gm/schools/>" <li>Teacher Credential Gambia College</li></a>
-
-    <a
-      href="https://www.monroecollege.edu/academics/undergraduate-programs/school-information-technology/bachelors-degree-computer">
-      <li>BSc Information Technology Monroe College</li>
-    </a>
-    <a href="https://catalog.csuchico.edu/courses/mins/">
-      <li>MIS CSU-Chico</li>
-    </a>
-    <a href="https://acloud.guru/courses">
-      <li>Acloud guru</li>
-    </a>
+<a href="https://www.monroecollege.edu/academics/undergraduate-programs/school-information-technology/bachelors-degree-computer">
+      <li>BSc Information Technology Monroe College</li></a>
+    <a href="https://catalog.csuchico.edu/courses/mins/"> <li>MIS CSU-Chico</li></a>
+    <a href="https://acloud.guru/courses"> <li>Acloud guru</li></a>
   </ul>
   <p class="head">Experience</p>
   <ul>
