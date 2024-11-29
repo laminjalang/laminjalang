@@ -1,57 +1,53 @@
-<div id="header"></div>
-<div class="left"></div>
-<div class="stuff">
-  <br><br>
-  <h1>Resume</h1>
-  <h2>Lamin Yabou </h2>
-  <hr />
-  <br>
-  <p class="head">Interests</p>
-  <ul>
-    <li>Cloud computing</li>
-    <li>Low code</li>
-    <li>Systems Administration- Linux</li>
-    <li>Programming</li>
-    <li>Computer Science</li>
-  </ul>
-  <p class="head">Skills</p>
-  <ul>
-    <li>Web Design with HTML & CSS</li>
-    <li>Kofax Capture And TotalAgility</li>
-    <li>OpenText AppEnhancer Administration</li>
-    <li>RedCap on-prem and Cloud</li>
-    <li>Posit formerly Rstudio administration</li>
-    <li>Azure administration</li>
-    <li>MySql Database Administration</li>
+Headline:
+Experienced IT Specialist | Expertise in Cloud Administration, Enterprise Applications, and Technical Support | State of California Professional
 
-  </ul>
-  <p class="head">Education</p>
-  <ul>
-    <!--Link-->
-    <a href="https://arc.losrios.edu/academics/programs-and-majors/computer-information-science#:~:text=A.S.%20in%20CIS%3A%20Database%20Management">
-      <li>AS American River College</li>
-    </a>
-    <a href="https://gc.edu.gm/schools/>" <li>Teacher Credential Gambia College</li></a>
-<a href="https://www.monroecollege.edu/academics/undergraduate-programs/school-information-technology/bachelors-degree-computer">
-      <li>BSc Information Technology Monroe College</li></a>
-    <a href="https://catalog.csuchico.edu/courses/mins/"> <li>MIS CSU-Chico</li></a>
-    <a href="https://acloud.guru/courses"> <li>Acloud guru</li></a>
-  </ul>
-  <p class="head">Experience</p>
-  <ul>
-    <li>Information Technology Specialist I @ CDPH</li>
-    <li>Metro Systems Integrator @ Wholefoods</li>
-    <li>Network Support Intern @ ULA.VE</li>
-  </ul>
-  <p class="head">Extracurriculars</p>
-  <ul>
-    <li>Toastmasters EEC club-Sacramento</li>
-    <li>Philantrophy</li>
-    <li>Makers club Sacramento</li>
+Summary:
+Results-driven IT Specialist with extensive experience in enterprise systems implementation, cloud administration, and technical support. Proven track record of streamlining operations, improving system performance, and delivering robust IT solutions for government and private organizations. Adept at managing enterprise applications like OpenText, Kofax Capture, and Microsoft Azure Cloud platforms. Skilled in troubleshooting, providing client-focused support, and leveraging data to inform decision-making.
 
-  </ul>
-</div>
-<div class="right"></div>
-<div id="footer">
-  <h4> Lamin Yabou | Phone: 419-665-6954</h4>
-</div>
+Core competencies include:
+
+Enterprise System Administration
+Cloud and On-Prem Solutions (Azure PaaS)
+IT Project Implementation and Maintenance
+Enterprise Document Imaging (Kofax Capture, OCR, KTM, Analytics)
+IT Support and Troubleshooting
+Compliance (PCI, SOX)
+Tableau Administration
+Committed to driving innovation, ensuring system reliability, and fostering productive collaborations across teams. Seeking to bring expertise to the IT Specialist 2 role, contributing to California's mission of excellence in public service.
+
+Experience:
+Enterprise Systems Product Lead
+State of California | 2018 – Present
+
+Led the deployment, maintenance, and support of enterprise document imaging solutions, ensuring seamless integration and performance.
+Administered Tableau Desktop and Server environments to deliver actionable insights.
+Supported Entrust Certificate generation and performed regular server maintenance to enhance system security and efficiency.
+Oversaw Azure Cloud application deployment and administration, streamlining workflows and optimizing resource usage.
+Technology Support Services Specialist
+Metro Systems Integrator | 2013 – 2018
+
+Delivered technical expertise for retail solutions, standardizing OS images across diverse hardware platforms.
+Implemented PCI and SOX-compliant processes, ensuring operational integrity.
+Provided proactive user and system support, reducing downtime and enhancing team efficiency.
+Created technical documentation and support tools to improve user training and system troubleshooting.
+Network Operations Technician
+Universidad de Los Andes, Venezuela | 2010 – 2012
+
+Managed network operations, configuring Cisco devices and resolving network issues to ensure robust connectivity.
+Collaborated with engineers to maintain and enhance university network infrastructure.
+Other Roles:
+
+Web Developer & Administrator | Top Concourse Electronics & Computers
+Qualified Teacher | Ministry of Basic and Secondary Education, The Gambia
+Education:
+
+Bachelor’s Degree in Information Technology | Monroe College
+Associate of Science (AS) | Sacramento City College
+Advanced Technical Degree in Agro-industrial Technology | Universidad Politécnica Territorial
+Certifications:
+
+Microsoft Azure Fundamentals
+Kofax Capture Technical Support Specialist
+Cisco Certified Network Associate (CCNA)
+Skills:
+Azure Administration | Enterprise Application Management | System Troubleshooting | Cloud Solutions | Data Visualization | Technical Support
